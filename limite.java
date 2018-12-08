@@ -64,7 +64,7 @@ public class limite {
 	}
 	
 	public static void main(String[] args){
-		System.out.println("ecrire la fonction");
+		System.out.println("Write the function expression");
 		
 		Scanner scan = new Scanner (System.in);
 		String expr = scan.nextLine();
